@@ -55,20 +55,3 @@ FROM customers
 order by points desc
 limit 3;
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
