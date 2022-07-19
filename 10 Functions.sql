@@ -20,23 +20,3 @@ BEGIN
 	RETURN IFNULL(risk_factor,0);
 END
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
